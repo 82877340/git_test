@@ -4,6 +4,8 @@ public class Main {
         System.out.println("git master1");
         System.out.println("git master2");
         System.out.println("git hot-fix2");
+        System.out.println("git hot-fix1");
+        System.out.println("git hot-fix33");
         System.out.println("git hot-fix3");
     }
 }
